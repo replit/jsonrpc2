@@ -1,4 +1,4 @@
-module github.com/sourcegraph/jsonrpc2
+module github.com/replit/jsonrpc2
 
 go 1.12
 
